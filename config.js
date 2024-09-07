@@ -5,7 +5,7 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'Dạ....',
-    title: 'Tớ xin lỗi vì đã làm phiền cậu nhưng mà nay tớ có chuyện muốn nói với cậu !!',
+    title: 'Tớ xin lỗi vì đã làm phiền cậu!!',
     desc: 'Tớ thực sự thích cậu 1 cẩm giác rất lạ đến cả tớ còn không thể giải thích được !!',
     btnYes: 'Tớ hiểu r',
     btnNo: '!!',
